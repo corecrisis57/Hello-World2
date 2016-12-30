@@ -1,2 +1,4 @@
-# Hello-World2
-idk
+#Hello World
+
+I love gaming and use of electrical systems
+
